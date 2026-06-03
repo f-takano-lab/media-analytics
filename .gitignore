@@ -16,3 +16,6 @@ _export.py
 
 # VSCode
 .vscode/
+
+# Private workspace
+private/
